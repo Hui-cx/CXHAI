@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'cxhAi'
   },
-  base: '/cxhAi/',
+  // base: '/cxhAi/',
 })
